@@ -40,9 +40,14 @@ Cyber security study of smart grids from a complex network perspective.
   
 # 📝 Publications 
 
+## Journal
+1. J. Yang, C. K. Tse, and D. Liu, "Sub-synchronous oscillations and transient stability of islanded microgrid," <i>IEEE Transactions on Power Systems</i>, to appear.
 
+## Conference
+2. [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Pre-print
+3. D. Liu, C. K. Tse, R. H. M. Chan, and C. Zhan., "Who should get vaccinated first? An effective network information-driven priority vaccination strategy,” posted at MedRxiv, May 13, 2021. https://www.medrxiv.org/content/10.1101/2021.05.10.21256999v1
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
