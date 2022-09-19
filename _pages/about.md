@@ -26,13 +26,13 @@ to be announced
 # 🗂 Projects (ongoing)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PE-penentrated Grid</div><img src='images/future-grid.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Robustness assessment and stability analysis of highly power electronic-penentrated power systems.
+## Robustness assessment and stability analysis of highly power electronic-penentrated power systems.
 </div>
 </div>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cyber-coupled eletrical systems</div><img src='images/cyber-physical-grid.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Cyber security study of smart grids from a complex network perspective.
+## Cyber security study of smart grids from a complex network perspective.
 </div>
 </div>
   
