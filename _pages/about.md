@@ -27,6 +27,8 @@ to be announced
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PE-penentrated Grid</div><img src='images/future-grid.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Robustness assessment and stability analysis of highly power electronic-penentrated power systems.
+  - modeling
+  - assessment
 </div>
 </div>
   
@@ -80,8 +82,14 @@ Cyber security study of smart grids from a complex network perspective.
 - *2010.09 - 2014.09*, BEng in Microelectronics, Sun Yat-Sen University.
 
 # 💬 Seminars and Workshops
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.04*, Joint Webinar Series in PolyU and CityU, Hong Kong, PCR.
+- *2021.01*, Joint Webinar Series in PolyU and CityU, Hong Kong, PCR.
+- *2020.12*, The 9th International Young Scholars Forum, Shenzhen, PCR.
+- *2019.07*, Workshop on Complex Networks in UESTC, Chengdu, PCR.
+- *2019.05*, Joint Seminars in PolyU and CityU, Hong Kong, PCR.
+- *2018.07*, Workshop on Complex Networks in SYSU, Guangzhou, PCR.
+- *2018.01*, Network Science Conference, Hangzhou, PCR.
+- *2017.03*, Workshop on Complex Networks in ZJU, Hangzhou, PCR.
 
 # 💻 Internships
 - *2014.06 - 2014.08*, TCL Tonly Electronics Holdings Limited, Huizhou, PCR.
