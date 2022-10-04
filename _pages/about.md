@@ -26,7 +26,7 @@ to be announced
 # 🗂 Projects (ongoing)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ML for Cascading Failure Analysis</div><img src='images/AI-cascadingfailure.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Machine learning-based methods and data analytics for studying cascading failures in smart grids.
+**Machine learning-based methods and data analytics for studying cascading failures in smart grids.**
   - onset time prediction of severe power outages.
   - failure propagation inference of large-scale power blackout events.
 </div>
@@ -35,7 +35,7 @@ Machine learning-based methods and data analytics for studying cascading failure
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PE-penetrated Grid</div><img src='images/future-grid.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Robustness assessment and stability analysis of highly power electronic-penetrated power systems.
+**Robustness assessment and stability analysis of highly power electronic-penetrated power systems.**
   - identification of new causes and types of power component failure.
   - characterization of the dynamics of failure propagation considering mutual influences between power electronics and power systems.
   - establishment of measures for the assessment of the system’s performance.
@@ -44,7 +44,7 @@ Robustness assessment and stability analysis of highly power electronic-penetrat
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cyber-coupled electrical systems</div><img src='images/cyber-physical-grid.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Cyber security study of smart grids from a complex network perspective.
+**Cyber security study of smart grids from a complex network perspective.**
   - interpretation of the interdependency between cyber and power networks.
   - investigation of the coupling patterns in cyber-coupled power systems using an interdependent network-based framework.
   - analysis of the interaction between attack and defence to derive effective defensive and protective strategies for the crucial infrastructure.
