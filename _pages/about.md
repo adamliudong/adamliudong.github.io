@@ -33,19 +33,19 @@ Machine learning-based methods and data analytics for studying cascading failure
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PE-penentrated Grid</div><img src='images/future-grid.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PE-penetrated Grid</div><img src='images/future-grid.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Robustness assessment and stability analysis of highly power electronic-penentrated power systems.
+Robustness assessment and stability analysis of highly power electronic-penetrated power systems.
   - identification of new causes and types of power component failure.
-  - charaterization of the dynamics of failure propagation considering mutual influences between power electronics and power systems.
+  - characterization of the dynamics of failure propagation considering mutual influences between power electronics and power systems.
   - establishment of measures for the assessment of the system’s performance.
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cyber-coupled eletrical systems</div><img src='images/cyber-physical-grid.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cyber-coupled electrical systems</div><img src='images/cyber-physical-grid.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Cyber security study of smart grids from a complex network perspective.
-  - interpretion of the interdependency between cyber and power networks.
+  - interpretation of the interdependency between cyber and power networks.
   - investigation of the coupling patterns in cyber-coupled power systems using an interdependent network-based framework.
   - analysis of the interaction between attack and defence to derive effective defensive and protective strategies for the crucial infrastructure.
 </div>
