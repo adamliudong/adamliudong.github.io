@@ -24,7 +24,7 @@ to be announced
 
 
 # 🗂 Projects (ongoing)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PE-penentrated Grid</div><img src='images/AI-cascadingfailure.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ML for Cascading Failure Analysis</div><img src='images/AI-cascadingfailure.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Machine learning-based methods and data analytics for studying cascading failures in smart grids.
   - onset time prediction of severe power outages.
