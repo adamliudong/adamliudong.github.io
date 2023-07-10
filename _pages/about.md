@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the BEng (Hons) in electronic engineering with first class from The Hong Kong Polytechnic University, Hong Kong, in 2014, BEng in microelectronics from Sun Yat-sen University, Guangzhou, China, in 2014, and the PhD degree in electrical engineering from Hong Kong Polytechnic University, Hong Kong, in 2019. I was a postdoc with the Institute of Textile and Clothing at Hong Kong Polytechnic University, and is now a postdoc with <a href="http://www.ee.cityu.edu.hk/~cccn/"> Centre for Complexity and Complex Networks (CCCN)</a> and the <a href="https://www.ee.cityu.edu.hk/"> Department of Electrical Engineering</a> at City University of Hong Kong. I am currently the full member  of  the  IEEE  Power  and  Energy  Circuits  and  Systems Technical Committee, and member of IEEE Power and Energy Society. My research interests include cascading faliure modeling and analysis, cyber-physical systems, and machine learning for robustness assessment in smart grids.
+I received the BEng (Hons) in electronic engineering with first class from The Hong Kong Polytechnic University, Hong Kong, in 2014, BEng in microelectronics from Sun Yat-sen University, Guangzhou, China, in 2014, and the PhD degree in electrical engineering from Hong Kong Polytechnic University, Hong Kong, in 2019. I was a postdoc with the Institute of Textile and Clothing at Hong Kong Polytechnic University, and am now a postdoc with <a href="http://www.ee.cityu.edu.hk/~cccn/"> Centre for Complexity and Complex Networks (CCCN)</a> and the <a href="https://www.ee.cityu.edu.hk/"> Department of Electrical Engineering</a> at City University of Hong Kong. I am currently a full member of the IEEE Power and Energy Circuits and Systems Technical Committee, and a member of IEEE Power and Energy Society. My research interests include cascading failure modeling and analysis, cyber-physical systems, and machine learning for robustness assessment in smart grids.
 
 # 🔥 News
 to be announced
@@ -55,8 +55,8 @@ to be announced
 
 ## Journal
 1. J. Yang, C. K. Tse, M. Huang, D. Liu, C. C. Liu, and X. Fu, "Comparison of homoclinic bifurcations between grid-following and grid-Forming converters," <i>IEEE Transactions on Industrial Electronics </i>, to appear.
-2. M. J. Li, C. K. Tse, D. Liu, and X. Zhang, "Cascading failure propagation and mitigation strategies in power systems," <i>IEEE Systems Journal </i>, to appear.
-3. J. Yang, C. K. Tse, and D. Liu, "Sub-synchronous oscillations and transient stability of islanded microgrid," <i>IEEE Transactions on Power Systems</i>, to appear.
+2. M. J. Li, C. K. Tse, D. Liu, and X. Zhang, "Cascading failure propagation and mitigation strategies in power systems," <i>IEEE Systems Journal </i>, vol. 17, no. 2, pp. 3282-3293, February 2023.
+3. J. Yang, C. K. Tse, and D. Liu, "Sub-synchronous oscillations and transient stability of islanded microgrid," <i>IEEE Transactions on Power Systems</i>, vol. 38, no. 4, pp. 3760-3774, July 2023.
 4. J. Yang, C. K. Tse, M. Huang, and D. Liu, "Bifurcations of grid-following rectifiers and routes to voltage instability in weak AC grids," <i> IEEE Transactions on Power Systems </i>, vol. 38, no. 2, pp. 1702-1713, March 2023.
 5. X. Zhang, D. Liu, H. Tu, and C. K. Tse, "An integrated modeling framework for cascading failure study and robustness assessment of cyber-coupled power grids," <i>Reliability Engineering and System Safety</i>, vol. 226, art. 108654, October 2022.
 6. J. Yang, C. K. Tse, and D. Liu, "Nonlinear behavior and reduced-order models of islanded microgrid," <i>IEEE Transactions on Power Electronics</i>, vol. 37, no. 8, pp. 9212-9225, August 2022
