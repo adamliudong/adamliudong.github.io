@@ -101,6 +101,10 @@ Circuits and Systems</i>, vol. 1, pp. 140–156, September 2020.
 - *2010.09 - 2014.09*, BEng in Microelectronics, Sun Yat-Sen University.
 
 # 💬 Seminars and Workshops
+- *2023.12* Workshop on Complex Networks in HDU, Hangzhou, PCR.
+- *2023.12* Global Young Scholars’ Forum in CUHKSZ, Shenzhen, PCR.
+- *2023.10* Joint Webinar Series in PolyU and CityU, Hong Kong, PCR.
+- *2023.07* Young Scientist Seminar in HKICE, Hong Kong, PCR.
 - *2022.04*, Joint Webinar Series in PolyU and CityU, Hong Kong, PCR.
 - *2021.01*, Joint Webinar Series in PolyU and CityU, Hong Kong, PCR.
 - *2020.12*, The 9th International Young Scholars Forum, Shenzhen, PCR.
