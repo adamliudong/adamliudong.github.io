@@ -19,6 +19,8 @@ redirect_from:
 
 I received the BEng (Hons) in electronic engineering with first class from The Hong Kong Polytechnic University, Hong Kong, in 2014, BEng in microelectronics from Sun Yat-sen University, Guangzhou, China, in 2014, and the PhD degree in electrical engineering from Hong Kong Polytechnic University, Hong Kong, in 2019. I was a postdoc with the Institute of Textile and Clothing at Hong Kong Polytechnic University, and am now a postdoc with <a href="http://www.ee.cityu.edu.hk/~cccn/"> Centre for Complexity and Complex Networks (CCCN)</a> and the <a href="https://www.ee.cityu.edu.hk/"> Department of Electrical Engineering</a> at City University of Hong Kong. I am currently a full member of the IEEE Power and Energy Circuits and Systems Technical Committee, and a member of IEEE Power and Energy Society. My research interests include cascading failure modeling and analysis, cyber-physical systems, and machine learning for robustness assessment in smart grids.
 
+<span style="color:green; font-size:4em;"> A Short Video of Self-Introduction </span>
+
 # 🔥 News
 to be announced
 
