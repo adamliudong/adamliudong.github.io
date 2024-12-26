@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the BEng (Hons) in electronic engineering with first class from The Hong Kong Polytechnic University, Hong Kong, in 2014, BEng in microelectronics from Sun Yat-sen University, Guangzhou, China, in 2014, and the PhD degree in electrical engineering from Hong Kong Polytechnic University, Hong Kong, in 2019. I was a postdoc with the Institute of Textile and Clothing at Hong Kong Polytechnic University, and am now a postdoc with <a href="http://www.ee.cityu.edu.hk/~cccn/"> Centre for Complexity and Complex Networks (CCCN)</a> and the <a href="https://www.ee.cityu.edu.hk/"> Department of Electrical Engineering</a> at City University of Hong Kong. I am currently a full member of the IEEE Power and Energy Circuits and Systems Technical Committee, and a member of IEEE Power and Energy Society. My research interests include cascading failure modeling and analysis, cyber-physical systems, and machine learning for robustness assessment in smart grids.
+I received the BEng (Hons) in electronic engineering with first class from The Hong Kong Polytechnic University, Hong Kong, in 2014, BEng in microelectronics from Sun Yat-sen University, Guangzhou, China, in 2014, and the PhD degree in electrical engineering from Hong Kong Polytechnic University, Hong Kong, in 2019. I was a postdoc with the Institute of Textile and Clothing at Hong Kong Polytechnic University, and am now a research fellow with <a href="http://www.ee.cityu.edu.hk/~cccn/"> Centre for Complexity and Complex Networks (CCCN)</a> and the <a href="https://www.ee.cityu.edu.hk/"> Department of Electrical Engineering</a> at City University of Hong Kong. I am currently a full member of the IEEE Power and Energy Circuits and Systems Technical Committee, and a member of IEEE Power and Energy Society. My research interests include cascading failure modeling and analysis, cyber-physical systems, and machine learning for robustness assessment in smart grids.
 
 <span style="color:green; font-size:1.2em;"> A Short Video of Self-Introduction </span>
 <video width="640" height="360" controls>
@@ -59,20 +59,23 @@ to be announced
 # 📝 Publications 
 
 ## Journal
-1. J. Yang, C. K. Tse, M. Huang, D. Liu, C. C. Liu, and X. Fu, "Comparison of homoclinic bifurcations between grid-following and grid-Forming converters," <i>IEEE Transactions on Industrial Electronics </i>, vol. 71, no. 5, pp. 4731-4741, May 2024.
-2. M. J. Li, C. K. Tse, D. Liu, and X. Zhang, "Cascading failure propagation and mitigation strategies in power systems," <i>IEEE Systems Journal </i>, vol. 17, no. 2, pp. 3282-3293, February 2023.
-3. J. Yang, C. K. Tse, and D. Liu, "Sub-synchronous oscillations and transient stability of islanded microgrid," <i>IEEE Transactions on Power Systems</i>, vol. 38, no. 4, pp. 3760-3774, July 2023.
-4. J. Yang, C. K. Tse, M. Huang, and D. Liu, "Bifurcations of grid-following rectifiers and routes to voltage instability in weak AC grids," <i> IEEE Transactions on Power Systems </i>, vol. 38, no. 2, pp. 1702-1713, March 2023.
-5. X. Zhang, D. Liu, H. Tu, and C. K. Tse, "An integrated modeling framework for cascading failure study and robustness assessment of cyber-coupled power grids," <i>Reliability Engineering and System Safety</i>, vol. 226, art. 108654, October 2022.
-6. J. Yang, C. K. Tse, and D. Liu, "Nonlinear behavior and reduced-order models of islanded microgrid," <i>IEEE Transactions on Power Electronics</i>, vol. 37, no. 8, pp. 9212-9225, August 2022
-7. D. Liu, X. Zhang, and C. K. Tse, "Effects of high level of penetration of renewable energy sources on cascading failure of modern power systems," <i>IEEE Journal of Emerging and Selected Topics in Circuits and Systems</i>, vol. 12, no. 1, pp. 98-106, March 2022.
-8. D. Liu, C. K. Tse, and X. Zhang, "Tradeoff between robustness and functionality in cyber-coupled power systems," <i>IEEE Systems Journal</i>, vol. 16, no. 1, pp. 499-509, March 2022.
-9. D. Liu, X. Zhang, and C. K. Tse, "A tutorial on modeling and analysis of cascading failure in future power grids," <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, vol. 68, no. 1, pp. 49-55, January 2021.
-10. C. K. Tse, M. Huang, X. Zhang, D. Liu, and X. L. Li, "Circuits and systems issues in power electronics penetrated power grid," <i>IEEE Open Journal of
+1. B. Li, D. Liu, J. Fang, X. Zhang, and C. K. Tse, “ailure Propagation Graphs for Studying Cascading Failure Propagation in Power Networks,” <i>IEEE Systems Journal</i>, to appear.
+2. D. Liu, C. K. Tse, J. Yang, and X. Zhang, "Revealing cascading failure vulnerability in evolving power grids with increasing penetration of inverter-based resources," <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>, to appear.
+3. X. Zhang, Q. Wang, D. Li, X. Bi, D. Liu, Y. Yu, and C. K. Tse, "Mitigating cascading failure in power grids with deep reinforcement learning-based remedial actions," <i>Reliability Engineering and System Safety</i>, vol. 250, article 110242, October 2024.
+4. J. Yang, C. K. Tse, M. Huang, D. Liu, C. C. Liu, and X. Fu, "Comparison of homoclinic bifurcations between grid-following and grid-Forming converters," <i>IEEE Transactions on Industrial Electronics </i>, vol. 71, no. 5, pp. 4731-4741, May 2024.
+5. M. J. Li, C. K. Tse, D. Liu, and X. Zhang, "Cascading failure propagation and mitigation strategies in power systems," <i>IEEE Systems Journal </i>, vol. 17, no. 2, pp. 3282-3293, February 2023.
+6. J. Yang, C. K. Tse, and D. Liu, "Sub-synchronous oscillations and transient stability of islanded microgrid," <i>IEEE Transactions on Power Systems</i>, vol. 38, no. 4, pp. 3760-3774, July 2023.
+7. J. Yang, C. K. Tse, M. Huang, and D. Liu, "Bifurcations of grid-following rectifiers and routes to voltage instability in weak AC grids," <i> IEEE Transactions on Power Systems </i>, vol. 38, no. 2, pp. 1702-1713, March 2023.
+8. X. Zhang, D. Liu, H. Tu, and C. K. Tse, "An integrated modeling framework for cascading failure study and robustness assessment of cyber-coupled power grids," <i>Reliability Engineering and System Safety</i>, vol. 226, art. 108654, October 2022.
+9. J. Yang, C. K. Tse, and D. Liu, "Nonlinear behavior and reduced-order models of islanded microgrid," <i>IEEE Transactions on Power Electronics</i>, vol. 37, no. 8, pp. 9212-9225, August 2022
+10. D. Liu, X. Zhang, and C. K. Tse, "Effects of high level of penetration of renewable energy sources on cascading failure of modern power systems," <i>IEEE Journal of Emerging and Selected Topics in Circuits and Systems</i>, vol. 12, no. 1, pp. 98-106, March 2022.
+11. D. Liu, C. K. Tse, and X. Zhang, "Tradeoff between robustness and functionality in cyber-coupled power systems," <i>IEEE Systems Journal</i>, vol. 16, no. 1, pp. 499-509, March 2022.
+12. D. Liu, X. Zhang, and C. K. Tse, "A tutorial on modeling and analysis of cascading failure in future power grids," <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, vol. 68, no. 1, pp. 49-55, January 2021.
+13. C. K. Tse, M. Huang, X. Zhang, D. Liu, and X. L. Li, "Circuits and systems issues in power electronics penetrated power grid," <i>IEEE Open Journal of
 Circuits and Systems</i>, vol. 1, pp. 140–156, September 2020.
-11. D. Liu and C. K. Tse, "Cascading failure of cyber-coupled power systems considering interactions between attack and defense," <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>, vol. 66, no. 11, pp. 4323-4336, November 2019.
-12. D. Liu, C. K. Tse, and X. Zhang, "Robustness assessment and enhancement of power grids from a complex network's perspective using decision trees," <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, vol. 66, no. 5, pp. 833-837, May 2019.
-13. X. Zhang, D. Liu, C. Zhan, and C. K. Tse, "Effects of cyber coupling on cascading failures in power systems," <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</i>, vol. 6, no. 2, pp. 228-238, June 2017. 
+14. D. Liu and C. K. Tse, "Cascading failure of cyber-coupled power systems considering interactions between attack and defense," <i>IEEE Transactions on Circuits and Systems I: Regular Papers</i>, vol. 66, no. 11, pp. 4323-4336, November 2019.
+15. D. Liu, C. K. Tse, and X. Zhang, "Robustness assessment and enhancement of power grids from a complex network's perspective using decision trees," <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, vol. 66, no. 5, pp. 833-837, May 2019.
+16. X. Zhang, D. Liu, C. Zhan, and C. K. Tse, "Effects of cyber coupling on cascading failures in power systems," <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</i>, vol. 6, no. 2, pp. 228-238, June 2017. 
 
 ## Conference
 12. B. Li, D. Liu#, J. Fang, X. Zhang, and C. K. Tse, "Strengthening critical power network branches for cascading failure mitigation," <i>IEEE International Symposium on Circuits and Systems</i>, (IEEE ISCAS 2024), Singapore, May 2024.
