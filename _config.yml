@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dong (Adam) Liu, 劉東"
-#description              : "Lecturer of the School of Science and Technology Centre at HKMU."
+description              : ""
 repository               : "adamliudong/adamliudong.github.io"
 google_scholar_stats_use_cdn : true
 
