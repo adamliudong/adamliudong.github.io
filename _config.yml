@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dong (Adam) Liu, 劉東"
-description              : "Research fellow at Centre for Complexity and Complex Networks (CCCN)."
+description              : "Lecturer of the School of Science and Technology Centre at HKMU."
 repository               : "adamliudong/adamliudong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dong (Adam) Liu, 劉東"
   avatar           : "images/adamliudong.jpg"
-  bio              : "Dept. EE, CityU HK"
+  bio              : "Lecturer of the School S&T, HKMU & Affiliated member of CCCN, CityU"
   location         : "Hong Kong, PCR"
   employer         :
   pubmed           : 
   #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "dongliu@cityu.edu.hk"
+  email            : "adamliu@ieee.org"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : # e.g., "https://www.linkedin.com/in/dong-liu-b63b46309/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
